@@ -32,5 +32,3 @@ Now that you’re communicating properly with the API, you should do something m
 ## **Part 3: Removing GIFs**
 
 Add a button next to the form which, when clicked, will remove all GIFs from the page.
-
-[Solution](https://lessons.springboard.com/Solution-85dcaf3e57ac40239a8d8fa07f13e4d1)
